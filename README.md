@@ -3,7 +3,7 @@
 **Nama:** Adellia Rezqi Salmabillah
 **NIM:** 312410395
 **Kelas:** TI.24.A4/I241D
-# My Diary Adel: Smart Offline Journaling
+# My Diary Adel: Journaling
 
 **My Journaling** adalah aplikasi buku harian digital berbasis Android yang dirancang sebagai ruang aman bagi pengguna untuk mencatatkan perasaan, rahasia, dan refleksi harian.
 
